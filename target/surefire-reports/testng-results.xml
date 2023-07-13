@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-12T17:39:11 IST" name="Surefire suite" finished-at="2023-07-12T17:40:37 IST" duration-ms="86121">
+    <groups>
+    </groups>
+    <test started-at="2023-07-12T17:39:11 IST" name="Surefire test" finished-at="2023-07-12T17:40:37 IST" duration-ms="86121">
+      <class name="scripts.TestCase">
+        <test-method is-config="true" signature="beforeSuitSetup()[pri:0, instance:scripts.TestCase@47d90b9e]" started-at="2023-07-12T17:39:00 IST" name="beforeSuitSetup" finished-at="2023-07-12T17:39:11 IST" duration-ms="10852" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuitSetup -->
+        <test-method signature="TestCase001()[pri:1, instance:scripts.TestCase@47d90b9e]" started-at="2023-07-12T17:39:11 IST" name="TestCase001" description="Testing the LogIn page logo" finished-at="2023-07-12T17:39:13 IST" duration-ms="2340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase001 -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:scripts.TestCase@47d90b9e]" started-at="2023-07-12T17:39:11 IST" name="beforemethod" finished-at="2023-07-12T17:39:11 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:scripts.TestCase@47d90b9e]" started-at="2023-07-12T17:39:13 IST" name="afterMethod" finished-at="2023-07-12T17:39:13 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="TestCase002()[pri:2, instance:scripts.TestCase@47d90b9e]" started-at="2023-07-12T17:39:13 IST" name="TestCase002" description="Testing Login functionality without credentials" finished-at="2023-07-12T17:39:16 IST" duration-ms="2387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase002 -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:scripts.TestCase@47d90b9e]" started-at="2023-07-12T17:39:13 IST" name="beforemethod" finished-at="2023-07-12T17:39:13 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:scripts.TestCase@47d90b9e]" started-at="2023-07-12T17:39:16 IST" name="afterMethod" finished-at="2023-07-12T17:39:16 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="TestCase003()[pri:3, instance:scripts.TestCase@47d90b9e]" started-at="2023-07-12T17:39:16 IST" name="TestCase003" description="Testing Login functionality without entering password" finished-at="2023-07-12T17:39:21 IST" duration-ms="5414" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase003 -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:scripts.TestCase@47d90b9e]" started-at="2023-07-12T17:39:16 IST" name="beforemethod" finished-at="2023-07-12T17:39:16 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:scripts.TestCase@47d90b9e]" started-at="2023-07-12T17:39:21 IST" name="beforemethod" finished-at="2023-07-12T17:39:21 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:scripts.TestCase@47d90b9e]" started-at="2023-07-12T17:39:21 IST" name="afterMethod" finished-at="2023-07-12T17:39:21 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="TestCase004()[pri:4, instance:scripts.TestCase@47d90b9e]" started-at="2023-07-12T17:39:21 IST" name="TestCase004" description="Testing Login functionality without enternig username" finished-at="2023-07-12T17:39:37 IST" duration-ms="15724" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase004 -->
+        <test-method signature="TestCase005()[pri:5, instance:scripts.TestCase@47d90b9e]" started-at="2023-07-12T17:39:37 IST" name="TestCase005" description="Testing Login functionality with integer values as credentials" finished-at="2023-07-12T17:39:47 IST" duration-ms="10035" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase005 -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:scripts.TestCase@47d90b9e]" started-at="2023-07-12T17:39:37 IST" name="beforemethod" finished-at="2023-07-12T17:39:37 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:scripts.TestCase@47d90b9e]" started-at="2023-07-12T17:39:37 IST" name="afterMethod" finished-at="2023-07-12T17:39:37 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:scripts.TestCase@47d90b9e]" started-at="2023-07-12T17:39:47 IST" name="afterMethod" finished-at="2023-07-12T17:39:47 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="TestCase006()[pri:6, instance:scripts.TestCase@47d90b9e]" started-at="2023-07-12T17:39:47 IST" name="TestCase006" description="Testing Login functionality with special characters credentials" finished-at="2023-07-12T17:39:57 IST" duration-ms="10014" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase006 -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:scripts.TestCase@47d90b9e]" started-at="2023-07-12T17:39:47 IST" name="beforemethod" finished-at="2023-07-12T17:39:47 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:scripts.TestCase@47d90b9e]" started-at="2023-07-12T17:39:57 IST" name="afterMethod" finished-at="2023-07-12T17:39:57 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:scripts.TestCase@47d90b9e]" started-at="2023-07-12T17:39:57 IST" name="beforemethod" finished-at="2023-07-12T17:39:57 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="TestCase007()[pri:7, instance:scripts.TestCase@47d90b9e]" started-at="2023-07-12T17:39:57 IST" name="TestCase007" description="Testing Remember me checkbox " finished-at="2023-07-12T17:40:07 IST" duration-ms="10020" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase007 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:scripts.TestCase@47d90b9e]" started-at="2023-07-12T17:40:07 IST" name="afterMethod" finished-at="2023-07-12T17:40:07 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="TestCase008()[pri:8, instance:scripts.TestCase@47d90b9e]" started-at="2023-07-12T17:40:07 IST" name="TestCase008" description="Testing Twitter logo " finished-at="2023-07-12T17:40:17 IST" duration-ms="10018" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase008 -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:scripts.TestCase@47d90b9e]" started-at="2023-07-12T17:40:07 IST" name="beforemethod" finished-at="2023-07-12T17:40:07 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="TestCase009()[pri:9, instance:scripts.TestCase@47d90b9e]" started-at="2023-07-12T17:40:17 IST" name="TestCase009" description="Testing Facebook logo " finished-at="2023-07-12T17:40:27 IST" duration-ms="10042" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase009 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:scripts.TestCase@47d90b9e]" started-at="2023-07-12T17:40:17 IST" name="afterMethod" finished-at="2023-07-12T17:40:17 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:scripts.TestCase@47d90b9e]" started-at="2023-07-12T17:40:17 IST" name="beforemethod" finished-at="2023-07-12T17:40:17 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="TestCase010()[pri:9, instance:scripts.TestCase@47d90b9e]" started-at="2023-07-12T17:40:27 IST" name="TestCase010" description="Testing Linkedin logo " finished-at="2023-07-12T17:40:37 IST" duration-ms="10029" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase010 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:scripts.TestCase@47d90b9e]" started-at="2023-07-12T17:40:27 IST" name="afterMethod" finished-at="2023-07-12T17:40:27 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:scripts.TestCase@47d90b9e]" started-at="2023-07-12T17:40:27 IST" name="beforemethod" finished-at="2023-07-12T17:40:27 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:scripts.TestCase@47d90b9e]" started-at="2023-07-12T17:40:37 IST" name="afterMethod" finished-at="2023-07-12T17:40:37 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterSuit()[pri:0, instance:scripts.TestCase@47d90b9e]" started-at="2023-07-12T17:40:37 IST" name="afterSuit" finished-at="2023-07-12T17:40:42 IST" duration-ms="4966" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuit -->
+      </class> <!-- scripts.TestCase -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
